@@ -1,0 +1,16 @@
+/*
+*   Точка интеграции фреймворка
+*/
+/* 
+    
+    Author     : pashak
+*/
+@import "groundwork/groundwork-anim.css";
+@import "groundwork/groundwork-core.css";
+@import "groundwork/groundwork-ie.css";
+@import "groundwork/groundwork-responsive.css";
+@import "groundwork/groundwork-type.css";
+@import "groundwork/groundwork-ui.css";
+@import "groundwork/groundwork.css";
+@import "groundwork/placeholder_polyfill.css";
+
